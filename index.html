@@ -4,10 +4,10 @@ layout: default
 <h1>Dweeb's Daily Digest</h1>
 
 <ul>
-	{% for for dailies in site.posts %}
+	{% for for index in site.posts %}
 	<li>
-		<a href="">{{dailies.title}}</a>
-		<p>{{dailies.meta}}</p>
+		<a href="">{{index.title}}</a>
+		<p>{{index.meta}}</p>
 	</li>
 	{% endfor %}
 </ul>
