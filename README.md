@@ -1,4 +1,6 @@
 dweebs-daily-digest
 ===================
 
-A daily digest of content relevant to the geek in you!
+A refined collection of the days news, articles and info.
+
+Website: http://bjpcorp.github.io/dweebs-daily-digest/
