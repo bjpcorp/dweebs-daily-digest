@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /dweebs-daily-digest
+exclude: ['README.md']
