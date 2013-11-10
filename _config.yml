@@ -1,4 +1,4 @@
 markdown: redcarpet
 baseurl: /dweebs-daily-digest
-permalink: /blog/:year/:month/:day/:title
+permalink: /archive/:year/:month/:day/:title
 exclude: ['README.md']
