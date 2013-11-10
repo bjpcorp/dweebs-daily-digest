@@ -20,4 +20,5 @@ a:active {text-decoration:underline;}  /* selected link */
 
 body {
 	width: 560px;
+	margin: 0px auto;
 }
