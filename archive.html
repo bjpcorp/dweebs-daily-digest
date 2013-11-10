@@ -10,7 +10,7 @@ title: archive
 		<h3><a href="{{ post.url }}">{{ post.title }} 
 		{{ post.date | date: "%d %B, %Y" }}
 						<!-- Whitespace added for code readability -->
-				{% assign d = page.date | date: "%-d" %}
+				{% assign d = post.date | date: "%-d" %}
 				{% case d %}
 				  {% when "1" or "21" or "31" %}{{ d }}st
 				  {% when "2" or "22" %}{{ d }}nd
