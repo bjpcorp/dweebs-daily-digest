@@ -1,7 +1,9 @@
 {% include header.html %}
 
 
-{{content}}
+{% for post in site.posts limit: 10 %}
+
+{% endfor %}
 
 
 {% include footer.html %}
