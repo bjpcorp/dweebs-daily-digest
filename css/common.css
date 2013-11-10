@@ -19,6 +19,6 @@ a:hover {text-decoration:underline;}   /* mouse over link */
 a:active {text-decoration:underline;}  /* selected link */
 
 body {
-	width: 560px;
+	width: 900px;
 	margin: 0px auto;
 }
