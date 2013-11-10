@@ -5,7 +5,7 @@ title: archive
 
 <h2>Archive</h2>
 
-{% for post in site.posts limit: 10 %}  
+{% for post in site.posts %}  
  	<div>
 		<h3><a href="{{ post.url }}">{{ post.title }} {{ post.date | date: "%d %B, %Y" }}</a></h3>
 	</div>
