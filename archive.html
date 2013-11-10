@@ -7,14 +7,16 @@ title: archive
 
 {% for post in site.posts %}  
  	<div>
-		<h3><a href="{{ post.url }}">{{ post.title }}
+		<h3><a href="{{ post.url }}">{{ post.title }} 
+		{{ post.date | date: "%d %B, %Y" }}</a></h3>
 		<!-- Whitespace added for code readability -->
-		{% assign d = page.date | date: "%-d" %}
-		{% case d %}
-		  {% when "1" or "21" or "31" %}{{ d }}st
-		  {% when "2" or "22" %}{{ d }}nd
-		  {% when "3" or "23" %}{{ d }}rd
-		  {% else %}{{ d }}th
-{% endcase %}</a></h3>
+{% assign d = page.date | date: "%-d" %}
+{% case d %}
+  {% when "1" or "21" or "31" %}{{ d }}st
+  {% when "2" or "22" %}{{ d }}nd
+  {% when "3" or "23" %}{{ d }}rd
+  {% else %}{{ d }}th
+{% endcase %}
 	</div>
  {% endfor %}
+ 
