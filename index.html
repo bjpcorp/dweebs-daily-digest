@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:5 %}
 	<div>
 		<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} {% assign d = post.date | date: "%-d" %}
 				{% case d %}
