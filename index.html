@@ -13,9 +13,6 @@ layout: default
 				{% endcase %}
 		{{ post.date | date: "%B, %Y" }}</a>
 		</h2>
-		{{ post.content | split:'<!--break-->' | first }}
-		{% if post.content contains '<!--break-->' %}
-			<a href="{{ site.baseurl }}{{ post.url }}">read more</a>
-		{% endif %}
+
 	</div>
 {% endfor %}
