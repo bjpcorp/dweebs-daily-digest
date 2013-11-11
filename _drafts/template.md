@@ -7,28 +7,30 @@ category: archive
 
 
 - News
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
 - Media
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
 - Design	
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
 - Tech
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
 - Developer
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-- BTC @12:00GMT
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+	- Headline [LINK] (http) Via [author] (http)
+- Bitcoin
+ - [MtGox] (https://www.mtgox.com/) Price @13:00GMT : $
+ - [Blockchain] (http://markets.blockchain.info/) Price @13:00GMT : $
