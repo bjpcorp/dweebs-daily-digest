@@ -10,7 +10,7 @@ nav > ul > li {
 	padding-right: 10px;}
 	
 h1 {text-align:center;
-	font-family: 1.7em/1em 'Raleway', sans-serif;
+	font-family: 120% 'Raleway', sans-serif;
 	}
 
 a:link {text-decoration:none; font-weight: bold}    /* unvisited link */
@@ -20,7 +20,7 @@ a:active {text-decoration:underline;}  /* selected link */
 
 body {
 	width: 800px;
-	font: normal 0.625em/1em 'Merriweather', serif;
+	font: normal 90% 'Merriweather', serif;
 	color: #333;
 	margin: 0px auto;
 	padding: 0px 10px;
