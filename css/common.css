@@ -50,8 +50,7 @@ span {
 }
 em {
 	background-color: #ffe4b2;
-	padding: 5px;
-	margin: 5px;
+	padding: 3px;
 	}
 div > h2 > a:link {text-decoration:none; color: #0276FD}    /* unvisited link */
 }
