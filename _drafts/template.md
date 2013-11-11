@@ -6,7 +6,7 @@ category: archive
 ---
 
 
-- News
+- **News**
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
