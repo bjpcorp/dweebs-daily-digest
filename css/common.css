@@ -33,6 +33,9 @@ h1 {
 	text-align:center;
 	font-family: 150% 'Raleway', sans-serif;
 	}
+header {
+	border-bottom: 1px solid #D8D8D8;
+}
 	
 /* Content */
 
