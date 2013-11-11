@@ -27,6 +27,7 @@ body {
 	}
 div > ul {
 	border-top: 1px solid #333;
+	padding-top: 10px;
 }
 	
 footer {
