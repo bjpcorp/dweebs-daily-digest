@@ -52,6 +52,7 @@ div > h2 > a:link {text-decoration:none; color: #0276FD}    /* unvisited link */
 
 footer	{
 	font-size:x-small; 
+	border: black 1px solid;
 	}
 footer > p > span > a:link {
 	text-decoration:none;
