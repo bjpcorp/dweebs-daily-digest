@@ -13,10 +13,10 @@ h1 {text-align:center;
 	font-family: 120% 'Raleway', sans-serif;
 	}
 
-a:link {text-decoration:none;}    /* unvisited link */
-a:visited {text-decoration:none;} /* visited link */
-a:hover {text-decoration:underline;}   /* mouse over link */
-a:active {text-decoration:underline;}  /* selected link */
+a:link {text-decoration:none; color: #EE9209}    /* unvisited link */
+a:visited {text-decoration:none; color: #D57700} /* visited link */
+a:hover {text-decoration:underline; color: #D57700}   /* mouse over link */
+a:active {text-decoration:underline; color: #D57700}  /* selected link */
 
 body {
 	width: 860px;
