@@ -10,6 +10,7 @@
 					{% else %}{{ d }}th
 				{% endcase %}
 		{{ post.date | date: "%B, %Y" }}</a></h2>
+		{% include twitter-share.html %}
 	</div>
 {% endfor %}
 
