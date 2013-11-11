@@ -3,14 +3,6 @@ html {
 	padding: 0;
 	}
 
-
-	
-
-a:link {text-decoration:underline; color: #0276FD;}    /* unvisited link */
-a:visited {text-decoration:none; color: #60AFFE;} /* visited link */
-a:hover {text-decoration:none; color: #60AFFE;}   /* mouse over link */
-a:active {text-decoration:none; color: #60AFFE;}  /* selected link */
-
 body {
 	width: 860px;
 	font: normal 90% 'Merriweather', serif;
@@ -18,6 +10,11 @@ body {
 	margin: 0px auto;
 	padding: 0px 10px;
 	}
+		
+a:link {text-decoration:underline; color: #0276FD;}    /* unvisited link */
+a:visited {text-decoration:none; color: #60AFFE;} /* visited link */
+a:hover {text-decoration:none; color: #60AFFE;}   /* mouse over link */
+a:active {text-decoration:none; color: #60AFFE;}  /* selected link */
 	
 /* Navigation  */
 
@@ -51,6 +48,8 @@ div > ul {
 span {
 	float: right;
 }
+em {
+	background-color: #0276FD; }
 div > h2 > a:link {text-decoration:none; color: #0276FD}    /* unvisited link */
 }
 
