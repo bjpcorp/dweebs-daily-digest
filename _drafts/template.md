@@ -5,7 +5,9 @@ meta: A refined collection of today's news, articles and info on tech, web and d
 category: archive
 ---
 
+
 - News
+	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
@@ -13,7 +15,9 @@ category: archive
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
 - Design	
+	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
@@ -21,3 +25,10 @@ category: archive
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+- Developer
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+- BTC @12:00GMT

@@ -20,16 +20,16 @@ category: archive
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
-- Developer
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
-	- ... [...] (http://#) by [...] (http://#)
 - Tech
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
 	- ... [...] (http://#) by [...] (http://#)
-- Bitcoin
-	- The price of bitcoin on Mt.Gox is 344.72 USD @11:30GMT
-	- The price of bitcoin on CoinDesk is 318.72 USD @11:30GMT
+- Developer
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+	- ... [...] (http://#) by [...] (http://#)
+- BTC @12:00GMT
+	Blockchain | MtGox
+	328.56 | 336.94
