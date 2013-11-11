@@ -6,10 +6,10 @@ html {
 
 	
 
-a:link {text-decoration:underline; color: #0276FD}    /* unvisited link */
-a:visited {text-decoration:none; color: #60AFFE} /* visited link */
-a:hover {text-decoration:none; color: #60AFFE}   /* mouse over link */
-a:active {text-decoration:none; color: #60AFFE}  /* selected link */
+a:link {text-decoration:underline; color: #0276FD;}    /* unvisited link */
+a:visited {text-decoration:none; color: #60AFFE;} /* visited link */
+a:hover {text-decoration:none; color: #60AFFE;}   /* mouse over link */
+a:active {text-decoration:none; color: #60AFFE;}  /* selected link */
 
 body {
 	width: 860px;
@@ -21,7 +21,7 @@ body {
 	
 /* Navigation  */
 
-nav {text-align:center}
+nav {text-align:center;}
 
 nav > ul > li {
 	display:inline;
