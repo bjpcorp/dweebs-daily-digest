@@ -13,7 +13,7 @@ nav > ul > li {
 	padding-right: 10px;}
 	
 h1 {text-align:center;
-	font: bold 150% 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	}
 
 a:link {text-decoration:none; font-weight: bold}    /* unvisited link */
