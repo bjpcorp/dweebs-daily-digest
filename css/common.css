@@ -36,7 +36,7 @@ h1 {
 	
 /* Content */
 
-div {border: 1px solid black;}
+div {border-bottom: 1px solid #D8D8D8;}
 
 div > ul {
 	/*border-top: 1px solid #D8D8D8;
