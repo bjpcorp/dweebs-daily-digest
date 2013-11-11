@@ -11,26 +11,25 @@ category: archive
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
-- Media
+- __Media__
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
-- Design	
+- __Design__	
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
-- Tech
+- __Tech__
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
-- Developer
+- __Developer__
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
 	- Headline [LINK] (http) Via [author] (http)
-- Bitcoin
+- __Bitcoin__
  - [MtGox] (https://www.mtgox.com/) Price @13:00GMT : $
- - [Blockchain] (http://markets.blockchain.info/) Price @13:00GMT : $
