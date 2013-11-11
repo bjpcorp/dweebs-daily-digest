@@ -36,6 +36,7 @@ h1 {
 	
 /* Content */
 
+div {border: 1px solid black;}
 
 div > ul {
 	/*border-top: 1px solid #D8D8D8;
@@ -51,7 +52,7 @@ div > h2 > a:link {text-decoration:none; color: #0276FD}    /* unvisited link */
 /* Footer */
 
 body > footer	{
-	font-size:x-small; 
+	font-size: x-small; 
 	border: black 1px solid;
 	}
 body > footer > p > span > a:link {
