@@ -33,6 +33,9 @@ div > ul {
 	border-bottom: 1px solid #D8D8D8;
 	padding: 20px 0;
 }
+span {
+	float: right;
+}
 div > h2 > a:link {text-decoration:none; color: #0276FD}    /* unvisited link */
 }
 	
